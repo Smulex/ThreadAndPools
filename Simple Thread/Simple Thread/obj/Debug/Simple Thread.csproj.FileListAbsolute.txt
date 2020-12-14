@@ -1,0 +1,7 @@
+C:\Users\chri45i4\source\repos\Simple Thread\Simple Thread\bin\Debug\Simple Thread.exe.config
+C:\Users\chri45i4\source\repos\Simple Thread\Simple Thread\bin\Debug\Simple Thread.exe
+C:\Users\chri45i4\source\repos\Simple Thread\Simple Thread\bin\Debug\Simple Thread.pdb
+C:\Users\chri45i4\source\repos\Simple Thread\Simple Thread\obj\Debug\Simple Thread.csprojAssemblyReference.cache
+C:\Users\chri45i4\source\repos\Simple Thread\Simple Thread\obj\Debug\Simple Thread.csproj.CoreCompileInputs.cache
+C:\Users\chri45i4\source\repos\Simple Thread\Simple Thread\obj\Debug\Simple Thread.exe
+C:\Users\chri45i4\source\repos\Simple Thread\Simple Thread\obj\Debug\Simple Thread.pdb
